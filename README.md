@@ -11,6 +11,8 @@ Main | Main Document
 
 Annex | Annex Documents
 
+Publication | Metanorma Publication 
+
 Data Model | UML Model & Graphics of model
 
 FC | Feature Catalogue
